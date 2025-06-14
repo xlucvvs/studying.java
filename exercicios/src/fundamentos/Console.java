@@ -13,9 +13,9 @@ public class Console {
 		System.out.println("dia!");
 		
 		System.out.printf("Megasena: %d %d %d %d %d %d %n", 
-				1, 2, 3, 4, 5, 6);
-		System.out.printf("Salário: %.1f%n", 1234.5678);
-		System.out.printf("Nome: %s%n", "João");
+				3, 9, 17, 23, 33, 37);
+		System.out.printf("Salário: %.1f%n", 12345.678);
+		System.out.printf("Nome: %s%n", "Lucas");
 		
 		Scanner entrada = new Scanner(System.in);
 		
